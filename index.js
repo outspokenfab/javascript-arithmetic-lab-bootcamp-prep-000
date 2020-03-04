@@ -27,6 +27,5 @@ divideBy3()
  
 console.log(number) // 5
 
-function add(){}
 function add(a,b){return a+b;}
-function subract(){}
+function subract(a,b){return a-b;}
