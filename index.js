@@ -28,5 +28,5 @@ divideBy3()
 console.log(number) // 5
 
 add(){
-  1 + 80;
+  return (1 + 80);
 }
