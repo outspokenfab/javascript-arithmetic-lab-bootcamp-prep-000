@@ -26,3 +26,4 @@ console.log(number) // 15
 divideBy3()
  
 console.log(number) // 5
+
