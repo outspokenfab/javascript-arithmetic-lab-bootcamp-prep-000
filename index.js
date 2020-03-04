@@ -27,4 +27,4 @@ divideBy3()
  
 console.log(number) // 5
 
-function add(){}
+function add(){return;}
